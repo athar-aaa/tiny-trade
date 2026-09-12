@@ -1,0 +1,7 @@
+{
+  "name": "TinyTrade - Toddler Needs Marketplace",
+  "description": "Platform terpercaya untuk jual beli dan barter perlengkapan balita preloved (Thrift. Trade. Trust).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
